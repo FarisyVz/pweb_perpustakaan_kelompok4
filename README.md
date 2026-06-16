@@ -84,9 +84,3 @@ Proyek ini dikembangkan untuk kebutuhan akademik/perpustakaan. Saran dan perbaik
 
 📝 Lisensi
 Proyek ini bersifat Open Source dan dapat digunakan untuk kepentingan pembelajaran.
-
-Tips untuk GitHub:
-Jika Anda memiliki tangkapan layar (screenshot) dari dashboard atau tabel laporan Anda, Anda bisa menambahkannya di bawah bagian Fitur Utama dengan format:
-![Dashboard](path/ke/gambar/dashboard.png)
-
-Pastikan untuk menghapus informasi sensitif (seperti password database asli) dari file database.php sebelum melakukan push ke GitHub publik.
